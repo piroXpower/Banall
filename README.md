@@ -5,6 +5,9 @@
 A Banall Bot Made With [Pyrogram](https://docs.pyrogram.org/)  To Destroy Groups On [Telegram](https://telegram.org/).
 Speed Depends upon Your Server Speed.
 
+https://heroku.com/deploy?template=https://github.com/piroXpower/Banall
+
+
 ______________________________
 
 For any query or want to know how it works join 👇
@@ -17,7 +20,7 @@ ______________________________
 Clone This Repo to Your Terminal By Below Commands First.
 
 ```console
-kali@kali: ~ $ git clone https://github.com/Elric-xD/Banall
+kali@kali: ~ $ git clone https://github.com/piroXpower/Banall
 ```
 
 
